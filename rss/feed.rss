@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ruilin</title>
+	<atom:link href="http://rui0.cn/feed" rel="self" type="application/rss+xml" />
+	<link>http://rui0.cn</link>
+	<description>where are you</description>
+	<lastBuildDate>Sun, 09 Jan 2022 08:16:04 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.15</generator>
+
+<image>
+	<url>http://rui0.cn/wp-content/uploads/2015/10/cropped-logoruilin1-32x32.png</url>
+	<title>Ruilin</title>
+	<link>http://rui0.cn</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>供应链安全之Broken Link Hijacking (BLH)</title>
+		<link>http://rui0.cn/archives/1735</link>
+					<comments>http://rui0.cn/archives/1735#respond</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Sun, 09 Jan 2022 09:00:00 +0000</pubDate>
+				<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[Broken Link Hijacking]]></category>
+		<category><![CDATA[供应链安全]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1735</guid>
+
+					<description><![CDATA[有这样一个问题，如果构成网络的底层硬件或软件在源头上出现了漏洞或攻击该怎么办？这种日益普遍同时又不易发现的攻击 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1735/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>从Service Mesh到Multi-Runtime</title>
+		<link>http://rui0.cn/archives/1700</link>
+					<comments>http://rui0.cn/archives/1700#respond</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Sun, 05 Dec 2021 09:00:00 +0000</pubDate>
+				<category><![CDATA[云原生]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[Dapr]]></category>
+		<category><![CDATA[Mosn]]></category>
+		<category><![CDATA[Multi-Runtime]]></category>
+		<category><![CDATA[Service Mesh]]></category>
+		<category><![CDATA[WebAssembly]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1700</guid>
+
+					<description><![CDATA[聊聊从Service Mesh到Multi-Runtime的发展历程，了解其是如何形成了这样的架构模式。讨论在 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1700/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Istio自身服务的安全风险</title>
+		<link>http://rui0.cn/archives/1597</link>
+					<comments>http://rui0.cn/archives/1597#comments</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Mon, 10 May 2021 10:00:00 +0000</pubDate>
+				<category><![CDATA[云原生]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[Istio]]></category>
+		<category><![CDATA[安全]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1597</guid>
+
+					<description><![CDATA[Istio是目前最受关注的服务网格之一，越来越多的公司开始落地Service Mesh架构，并将已有的系统接入 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1597/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spring Boot中关于%2e的Trick</title>
+		<link>http://rui0.cn/archives/1643</link>
+					<comments>http://rui0.cn/archives/1643#comments</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2021 14:30:00 +0000</pubDate>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[代码审计]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[SpringBoot]]></category>
+		<category><![CDATA[Trick]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1643</guid>
+
+					<description><![CDATA[分享一个Spring Boot中关于%2e的小Trick。先说结论，当Spring Boot版本在小于等于2. [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1643/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Service Mesh中的iptables流量劫持</title>
+		<link>http://rui0.cn/archives/1619</link>
+					<comments>http://rui0.cn/archives/1619#respond</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Sat, 27 Mar 2021 10:30:00 +0000</pubDate>
+				<category><![CDATA[云原生]]></category>
+		<category><![CDATA[iptables]]></category>
+		<category><![CDATA[Istio]]></category>
+		<category><![CDATA[Service Mesh]]></category>
+		<category><![CDATA[流量劫持]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1619</guid>
+
+					<description><![CDATA[随着软件架构不断的演进，更加快捷部署大型复杂应用成为了人们关注的方向。近几年Service Mesh开始不断出 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1619/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kubernetes中使用Helm2的安全风险</title>
+		<link>http://rui0.cn/archives/1573</link>
+					<comments>http://rui0.cn/archives/1573#respond</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Mon, 04 Jan 2021 11:05:27 +0000</pubDate>
+				<category><![CDATA[WEB]]></category>
+		<category><![CDATA[云原生]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[helm]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1573</guid>
+
+					<description><![CDATA[Kubernetes是一个强大的容器调度系统，通常我们会使用一些声明式的定义来在Kubernetes中部署业务 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1573/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>认识 WebAuthn</title>
+		<link>http://rui0.cn/archives/1543</link>
+					<comments>http://rui0.cn/archives/1543#respond</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2020 08:50:00 +0000</pubDate>
+				<category><![CDATA[WEB]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[FIDO]]></category>
+		<category><![CDATA[WebAuthn]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1543</guid>
+
+					<description><![CDATA[目前来看，密码认证方式早已成为我们一直采用的最直接的身份认证方式。但是我们应该知道的是很多大型企业都有曾出现过 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1543/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Java单向代码执行链配合的动态代码上下文执行</title>
+		<link>http://rui0.cn/archives/1408</link>
+					<comments>http://rui0.cn/archives/1408#comments</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 09:00:00 +0000</pubDate>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[代码审计]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[java]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1408</guid>
+
+					<description><![CDATA[Java反序列化漏洞的危害不光在于普通gadgets能够带来的命令执行，由于Java应用的使用场景以及gadg [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1408/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Java“后反序列化漏洞”利用思路</title>
+		<link>http://rui0.cn/archives/1338</link>
+					<comments>http://rui0.cn/archives/1338#comments</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 14:27:10 +0000</pubDate>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[反序列化]]></category>
+		<category><![CDATA[后反序列化]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1338</guid>
+
+					<description><![CDATA[“后反序列化漏洞”指的是在反序列化操作之后可能出现的攻击面。反序列化漏洞是Java中最经典的一种，所以大家可能 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1338/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>聊聊对目前Passive IAST的思考</title>
+		<link>http://rui0.cn/archives/1175</link>
+					<comments>http://rui0.cn/archives/1175#comments</comments>
+		
+		<dc:creator><![CDATA[Rui0]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2019 08:34:08 +0000</pubDate>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[WEB]]></category>
+		<category><![CDATA[代码审计]]></category>
+		<category><![CDATA[安全相关]]></category>
+		<category><![CDATA[IAST]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[插桩]]></category>
+		<category><![CDATA[污点分析]]></category>
+		<guid isPermaLink="false">http://rui0.cn/?p=1175</guid>
+
+					<description><![CDATA[之前一直有在研究Java插桩应用于安全防御以及检测方面的东西，主要分为RASP和IAST。IAST又叫交互式应 [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://rui0.cn/archives/1175/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

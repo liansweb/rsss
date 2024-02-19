@@ -1,0 +1,13 @@
+feishuToken: 
+filterSearch:
+  - 漏洞
+  - 分析
+  - CVE
+  - API
+  - 研究
+  - 复现
+  - 技术
+rssPath: ./rssConfig.yaml
+sqlDataName: ./rssData
+sqlTableName: rssTable
+sqlCretaTable: CREATE TABLE rssTable ( id integer primary key autoincrement, title TEXT(15) not null,link TEXT(15) not null, date TEXT(15) not null,rssName TEXT(15) not null);

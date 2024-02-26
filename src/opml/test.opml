@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Chinese-Security-RSS</title>
+    </head>
+    <body>
+       <outline text="FreeBuf互联网安全新媒体平台" title="FreeBuf互联网安全新媒体平台" type="rss" xmlUrl="https://www.freebuf.com/feed" htmlUrl="https://www.freebuf.com"/>
+       <outline text="安全客" title="安全客" type="rss" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com"/>
+    </body>
+</opml>
